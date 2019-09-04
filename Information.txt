@@ -1,0 +1,3 @@
+Create a img folder and insert 8 different images and a background.jpg,batch.jpg,logo.jpg,welldone.jpg
+images then this project will work in proper way.
+Thankyou
